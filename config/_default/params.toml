@@ -88,7 +88,7 @@ show_related = {book = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "mailto:yongchengzheng@mail.ustc.edu.cn"
+email = "yongchengzheng@mail.ustc.edu.cn"
 phone = ""
 
 # Address
