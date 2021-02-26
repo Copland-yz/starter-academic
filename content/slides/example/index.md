@@ -62,7 +62,7 @@ In-line math: $x + y = z$
 Block math:
 
 $$
-f\left( x \right) 
+f\left( x \right)  
 $$
 
 ---
