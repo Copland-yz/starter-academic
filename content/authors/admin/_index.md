@@ -32,8 +32,10 @@ superuser: true
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Yong Chengzheng is an undergraduate student from USTC(University of Science and Technology of China), majoring in Geophysics and minoring in Computer Science. His research interests include Seismology, Planetary Science, and Geodynamics. He did some leading job in several course projects, and is now digging deep in spectroscopy of Mars. He self-learned some biology courses, and is also interested in isotope geochemistry.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+He has already learned C, C++, Python, Matlab, Markdown, Latex, Java, and other cyber skills like Adobe Premiere and Multisim. He can not only speak fluently in English and Chinese, but also a little in French and German. But that's not enough, he is going to learn whatever he show interest in.
+
+He is a big fan of musicals and animation films, waiting for a chance to performe musical on the stage. He has learned piano but not excellent, so he still want to learn different kind of instruments. He serves as the goalkeeper in a soccer team called "Pin Ru", and supports Wolverhampton Wanderers. He can also play billiards and badminton. Guess what? He has been fascinated by car racing since he was a child.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
