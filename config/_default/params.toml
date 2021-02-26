@@ -117,8 +117,8 @@ contact_links = [
   #{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
-  {icon = "zhihu", icon_pack = "fab", name = "Ask Me", link = "https://www.zhihu.com/people/yong-cheng-zheng-88"},
-  {icon = "github", icon_pack = "fab", name = "Fork Me", link = "https://github.com/copland-yz"},
+  #{icon = "zhihu", icon_pack = "fab", name = "Ask Me", link = "https://www.zhihu.com/people/yong-cheng-zheng-88"},
+  #{icon = "github", icon_pack = "fab", name = "Fork Me", link = "https://github.com/copland-yz"},
   ]
 
 ############################
@@ -137,7 +137,7 @@ twitter = ""
 
 # Date and time format (refer to https://wowchemy.com/docs/customization/#date-format )
 #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-date_format = "Feb 26, 2021"
+date_format = "Jan, 2006"
 #   Examples: "3:04 pm" or "15:04"
 time_format = "3:04 PM"
 
