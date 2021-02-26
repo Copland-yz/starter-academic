@@ -2,8 +2,7 @@
 title: Yong Chengzheng
 role: Undergraduate Student
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests:
   - Seismology
   - Planetary Science
@@ -12,32 +11,22 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:yongchengzheng@mail.ustc.edu.cn
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
+    link: https://github.com/copland-yz
+  - display:
+      header: false
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://join.skype.com/invite/vqF6tt4eNffn
+    icon: skype
 organizations:
   - name: University of Science and Technology of China
     url: https://ustc.edu.cn
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BSc in Geophysics
+      institution: University of Science and Technology of China
+      year: ""
 email: ""
 superuser: true
 highlight_name: false
