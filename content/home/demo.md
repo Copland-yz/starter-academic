@@ -23,6 +23,6 @@ design:
       - 20px
       - "0"
 ---
-# Welcome to Yong Chengzheng's Website
 
-### ✨ I'm always looking upon the stars, search for meanings of the universe
+
+## ✨ I'm always looking upon the stars, search for meanings of the universe
