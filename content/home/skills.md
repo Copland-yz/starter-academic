@@ -28,26 +28,7 @@ feature:
   icon: laptop-code
   icon_pack: fas
   name: Matlab
-- description: 80%
-  icon: file-code
-  icon_pack: fas
-  name: Markdown and Latex
-- description: 100%
-  icon: :cn:
-  icon_pack: emoji
-  name: Chinese
-- description: 80%
-  icon: :us:
-  icon_pack: emoji
-  name: English
-- description: 20%
-  icon: :fr:
-  icon_pack: emoji
-  name: French
-- description: 10%
-  icon: :de:
-  icon_pack: emoji
-  name: German
+
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
