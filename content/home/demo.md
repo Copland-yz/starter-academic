@@ -13,7 +13,7 @@ design:
   columns: "1"
   background:
     gradient_start: "#3ed9e3"
-    gradient_end: "#a2fafd"
+    gradient_end: "#f7f7f7"
     text_color_light: false
     image: ""
     image_darken: ""
