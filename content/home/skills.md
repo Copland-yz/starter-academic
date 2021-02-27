@@ -37,7 +37,7 @@ feature:
   icon_pack: emoji
   name: Chinese
 - description: 80%
-  icon: :us::uk:
+  icon: :us:
   icon_pack: emoji
   name: English
 - description: 20%
