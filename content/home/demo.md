@@ -12,12 +12,12 @@ active: true
 design:
   columns: "1"
   background:
-    gradient_start: ""
-    gradient_end: ""
+    gradient_start: "#3ed9e3"
+    gradient_end: "#a2fafd"
     text_color_light: false
-    image: /static/media/walle.jpg
-    image_darken: 1
-    color: "#36cece"
+    image: ""
+    image_darken: ""
+    color: ""
   spacing:
     padding:
       - 20px
