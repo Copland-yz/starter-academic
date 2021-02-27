@@ -28,6 +28,10 @@ feature:
   icon: laptop-code
   icon_pack: fas
   name: Matlab
+- description: 80%
+  icon: file-code
+  icon_pack: fas
+  name: Markdown and Latex
 
 
 # Uncomment to use emoji icons.
