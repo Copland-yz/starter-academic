@@ -31,7 +31,7 @@ feature:
 - description: 80%
   icon: file-code
   icon_pack: fas
-  name: Markdown and Latex
+  name: Markdown and LaTeX
 - description: 100%
   icon: ":cn:"
   icon_pack: "emoji"
