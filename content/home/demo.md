@@ -12,9 +12,9 @@ active: true
 design:
   columns: "1"
   background:
-    gradient_start: "#38e5e7"
-    gradient_end: "#3ba4ea"
-    text_color_light: true
+    gradient_start: ""
+    gradient_end: ""
+    text_color_light: false
     image: /static/media/walle.jpg
     image_darken: 0.6
   spacing:
