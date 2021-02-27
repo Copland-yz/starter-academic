@@ -16,7 +16,8 @@ design:
     gradient_end: ""
     text_color_light: false
     image: /static/media/walle.jpg
-    image_darken: 0.6
+    image_darken: 1
+    color: "#36cece"
   spacing:
     padding:
       - 20px
