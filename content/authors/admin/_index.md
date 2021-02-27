@@ -4,8 +4,8 @@ role: Undergraduate Student
 avatar_filename: avatar.jpg
 bio: ""
 interests:
-  - Seismology
   - Planetary Science
+  - Seismology
   - Geodynamics
 social:
   - icon: envelope
@@ -32,7 +32,7 @@ superuser: true
 highlight_name: false
 ---
 
-Yong Chengzheng is an undergraduate student from USTC(University of Science and Technology of China), majoring in Geophysics and minoring in Computer Science. His research interests include Seismology, Planetary Science, and Geodynamics. He did some leading job in several course projects, and is now digging deep in spectroscopy of Mars. He self-learned some biology courses, and is also interested in isotope geochemistry.
+Yong Chengzheng is an undergraduate student from USTC(University of Science and Technology of China), majoring in Geophysics and minoring in Computer Science. His research interests include Planetary Science, Seismology, and Geodynamics. He did some leading job in several course projects, and is now digging deep in spectroscopy of Mars. He self-learned some biology courses, and is also interested in isotope geochemistry.
 
 He has already learned C, C++, Python, Matlab, Markdown, Latex, Java, and other cyber skills like Adobe Premiere and Multisim. He can not only speak fluently in English and Chinese, but also a little in French and German. But that's not enough, he is going to learn whatever he show interest in.
 
