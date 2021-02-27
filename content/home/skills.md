@@ -32,6 +32,10 @@ feature:
   icon: file-code
   icon_pack: fas
   name: Markdown and LaTeX
+- description: 10%
+  icon: java
+  icon_pack: fab
+  name: Java
 - description: 100%
   icon: ":cn:"
   icon_pack: "emoji"
