@@ -38,4 +38,4 @@ He has already learned C, C++, Python, Matlab, Markdown, Latex, Java, and other 
 
 He is a big fan of musicals and animation films, waiting for a chance to performe musical on the stage. He has learned piano but not excellent, so he still want to learn different kind of instruments. He serves as the goalkeeper in a soccer team called "Pin Ru", and supports Wolverhampton Wanderers. He can also play billiards and badminton. Guess what? He has been fascinated by car racing since he was a child.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
