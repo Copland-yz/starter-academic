@@ -26,8 +26,8 @@ experience:
     company: Dream School
     company_url: ''
     location: Solar system
-    date_start: 'Jan 2022'
-    date_end: 'Jan 2022'
+    date_start: '2022-01-01'
+    date_end: '2022-01-01'
     description: |2-
         Responsibilities include:
         
