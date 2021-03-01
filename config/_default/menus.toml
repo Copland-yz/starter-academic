@@ -39,3 +39,8 @@
   name = "CV"
   url = "media/resume.pdf"
   weight = 70
+  
+[[main]]
+  name = "Blog"
+  url = "https://copland-yz.github.io/blog/"
+  weight = 80
