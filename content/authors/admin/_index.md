@@ -5,6 +5,7 @@ avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Planetary Science
+  - Mineral Physics
   - Seismology
   - Geodynamics
 social:
