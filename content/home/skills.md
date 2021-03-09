@@ -28,7 +28,7 @@ feature:
   icon: laptop-code
   icon_pack: fas
   name: Matlab
-- description: 80%
+- description: 70%
   icon: file-code
   icon_pack: fas
   name: Markdown and LaTeX
