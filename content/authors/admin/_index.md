@@ -20,6 +20,11 @@ social:
     icon_pack: fab
     link: https://join.skype.com/invite/vqF6tt4eNffn
     icon: skype
+  - display:
+      header: false
+    link: https://orcid.org/0000-0001-6713-0254
+    icon_pack: ai
+    icon: orcid
 organizations:
   - name: University of Science and Technology of China
     url: https://ustc.edu.cn
